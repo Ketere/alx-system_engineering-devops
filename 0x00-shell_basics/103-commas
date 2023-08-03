@@ -1,0 +1,5 @@
+#!/bin/bash
+ls -xamp
+emacs edito wust
+0 string SCHOOL School data
+!:mime School
