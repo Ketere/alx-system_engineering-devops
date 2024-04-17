@@ -1,4 +1,4 @@
 #!/bin/bash
 
 # Connect to the server using the specified private key and user
-ssh -F /dev/null -o IdentitiesOnly=yes -i ~/.ssh/school ubuntu@54.160.119.113
+ssh ubuntu@54.160.119.113 -i ~/.ssh/school
