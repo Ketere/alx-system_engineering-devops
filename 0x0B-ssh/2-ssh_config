@@ -1,0 +1,4 @@
+# configure ssh not to use PasswordAuthentication
+Host *
+  IdentityFile ~/.ssh/school
+  PasswordAuthentication no
