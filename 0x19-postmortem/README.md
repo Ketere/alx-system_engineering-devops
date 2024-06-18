@@ -5,7 +5,7 @@
  * Year: 2024
 
 ### ISSUE SUMMARY
- * On June 16th, 2024, from 9:00 PM to 11:30 AM EAT, our Zabbix monitoring server became unresponsive, leading to a complete loss of monitoring capabilities across our infrastructure. This outage impacted 100% of our services, affecting our ability to monitor system health and performance in real-time. The root cause was identified as the cache storage limit being reached due to rapid growth in monitored data.
+ * On June 16th, 2024, from 9:00 PM to 10:15 pM EAT, our Zabbix monitoring server became unresponsive, leading to a complete loss of monitoring capabilities across our infrastructure. This outage impacted our ability to monitor system health and performance in real-time. The root cause was identified as the cache storage limit being reached due to rapid growth in monitored data.
 
 ### THE TIMELINE
  * 9:00 PM EAT :- Issue detected through an alert from our monitoring system indicating that the Zabbix server was unresponsive.
